@@ -1,12 +1,3 @@
-/*  ___   ___  ___  _   _  ___   ___   ____ ___  ____  
- * / _ \ /___)/ _ \| | | |/ _ \ / _ \ / ___) _ \|    \ 
- *| |_| |___ | |_| | |_| | |_| | |_| ( (__| |_| | | | |
- * \___/(___/ \___/ \__  |\___/ \___(_)____)___/|_|_|_|
- *                  (____/ 
- * Arduino Smart Car Tutorial Lesson 1
- * Tutorial URL https://osoyoo.com/2019/09/17/osoyoo-2wd-robot-car-starter-kit-v2-0-lesson-1-basic-robot-car-assembly/
- * CopyRight www.osoyoo.com
-
  * After running the code, smart car will go forward 2 seconds, then go backward 2
  * seconds, then left turn for 2 seconds then right turn for 2 seconds then stop. 
  * 
