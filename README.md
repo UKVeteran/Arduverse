@@ -40,6 +40,9 @@ Your gateway to a universe of Arduino projects! From simple circuits to complex 
 
 ![dht11](https://github.com/user-attachments/assets/8ab5b1c1-ebe0-4db3-a39c-c2b47d53d927)
 
+![lesson5](https://github.com/user-attachments/assets/8a5ae6b9-cc4b-44cd-8074-5dc96a474061)
+
+
 
 
 ---
