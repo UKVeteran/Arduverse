@@ -36,8 +36,11 @@ Your gateway to a universe of Arduino projects! From simple circuits to complex 
 
 ![lesson1](https://github.com/user-attachments/assets/97f72f47-577a-41a9-8565-24ab6a3160e8)
 
-
 ![lesson3](https://github.com/user-attachments/assets/3e9c7141-3f14-4e12-8ca5-440c8780e60f)
+
+![dht11](https://github.com/user-attachments/assets/8ab5b1c1-ebe0-4db3-a39c-c2b47d53d927)
+
+
 
 ---
 
