@@ -14,6 +14,7 @@ Your gateway to a universe of Arduino projects! From simple circuits to complex 
 - 👨‍👩‍👦 **Educational Projects**
 - 🎨 **Creative LED Art**
 
+
 ---
 
 ## 🛠 **Getting Started**
@@ -33,10 +34,10 @@ Your gateway to a universe of Arduino projects! From simple circuits to complex 
 
 ## 💡 **Project Highlights**
 
-- **🌟 Starry Night LED Art** - A decorative display using addressable LEDs.
-- **🔢 Smart Temperature Monitor** - Real-time temperature monitoring with alerts.
-- **🛠 Automated Plant Watering** - Keep your plants hydrated with a soil moisture sensor.
-- **🤖 Obstacle Avoiding Robot** - Navigate through obstacles with ultrasonic sensors.
+![lesson1](https://github.com/user-attachments/assets/97f72f47-577a-41a9-8565-24ab6a3160e8)
+
+
+![lesson3](https://github.com/user-attachments/assets/3e9c7141-3f14-4e12-8ca5-440c8780e60f)
 
 ---
 
