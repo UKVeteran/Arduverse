@@ -44,6 +44,7 @@ Your gateway to a universe of Arduino projects! From simple circuits to complex 
 
 ![lesson7](https://github.com/user-attachments/assets/ebe10ebc-8c58-4a38-ba0a-d240fab4c245)
 
+![lesson8](https://github.com/user-attachments/assets/efa1b968-b9c3-4bd6-8b13-21798330055d)
 
 
 ---
